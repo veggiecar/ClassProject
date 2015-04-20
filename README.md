@@ -43,7 +43,7 @@ use a for loop to replace activity code with actual activity name --
 compute the standard deveiation of each row of test_df -- 
 put standard deviation computations into standard deviation column of test_df -- 
 create an array of a sequence of numbers -- 
-put those numbers into Raw data row number column of test_df -- 
+put those numbers into Raw data row number column of test_df
 
 the above will be repeated for training observations
 
@@ -52,8 +52,8 @@ combine testing data frame and training data frame
 create an empty dataframe to hold summarized data naming the columns and the rows -- 
 create array for the choices in the activity column -- 
 using a for loop for each column of the newly created data frame -- 
-create a subset for each subject that is being examined -- 
-loops through the six separate activities of the subject being examined -- 
+create a subset for each subject of the combined data frame that is being examined -- 
+loops through the six separate activities of the combined data frame of the subject being examined -- 
 creates a subset of the activity being examined of the subject being examined -- 
 calculates the average standard deviation of all the tests of the activity/subject being examined -- 
 calculates the average mean of all the tests of the activity/subject being examined -- 
