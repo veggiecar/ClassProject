@@ -21,7 +21,7 @@ Within the downloaded zip file one will find .txt files that hold the raw data w
 run_analysis.R script.  The files that will be used are: X_test.txt, Y_test.txt, subject_test.txt, X_train.txt, 
 Y_train.txt, subject_train.txt. These file must be placed in the working directory.
 
-The data in the inertial Signal folders will not be used by the run_analysis.R script.
+The data in the Inertial Signal folders will not be used by the run_analysis.R script.
 
 Additionally included in the previously mentioned zip file will be a README text file, features info text file, 
 features text file and an activity file.  All of which can provide background information on the information 
