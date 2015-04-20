@@ -57,7 +57,7 @@ create a subset for each subject that is being examined
 loops through the six separate activities of the subject being examined
 creates a subset of the activity being examined of the subject being examined
 calculates the average standard deviation of all the tests of the activity/subject being examined
-calculates the average mean of all the tests of the activity/subject being examined 
+calculates the average mean of all the tests of the activity/subject being examined
 puts the average mean in the correct cell of the data frame
 puts the average standard deviation in the correct cell of the data frame
 prints the summary_df to a text file residing in the working directory
